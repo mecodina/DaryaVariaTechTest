@@ -10,7 +10,7 @@ How to Running Project
 4. Server=Adjust to your local server  
 5. Build solution then Run Project or (press F5)
 6. Access Menu Healthcare Products 
-7. Question No. 1-6 are ready for test
+7. Question No. 1-6 are ready to test
 
 
 Thank you.
